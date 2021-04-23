@@ -16,6 +16,10 @@ public class FIFO<T> {
         return stack.count
     }
     
+    public init() {
+    // This initializer intentionally left empty
+    }
+    
     public func push(_ value: T) {
         self.stack.append(value)
     }
