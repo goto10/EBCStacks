@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "EBCLinkedList",
+        "repositoryURL": "https://github.com/goto10/EBCLinkedList.git",
+        "state": {
+          "branch": null,
+          "revision": "6c7a21f534513680d0ce7867675f12bb74a687b6",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
